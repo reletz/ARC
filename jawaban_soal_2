@@ -1,0 +1,14 @@
+Apa itu Git Rebase?
+-> Git rebase adalah salah satu metode merge dalam Git yang digunakan untuk branch-merging. 
+Contohnya seperti ini:
+
+        branchA -> commit1A -> commit2A -> commit3A
+           ^
+           |
+main -> commit1 -> commit2 -> commit3
+
+Jika di rebase menjadi:
+
+main -> commit1 -> commit2 -> commit3-> commit1A -> commit2A -> commit3A
+
+Dengan rebase, suatu branch seolah-olah memiliki history commit yang linear.
