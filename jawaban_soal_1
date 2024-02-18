@@ -1,0 +1,3 @@
+Apa itu merge conflict dan cara menanggulanginya?
+-> Merge conflict adalah peristiwa ketika ada perubahan pada file di line yang sama dari 2 branch yang sama, sehingga merge tidak dapat dilakukan secara otomatis.
+Cara yang dapat dilakukan menanggulanginya adalah dengan memilih branch yang akan digunakan, atau membuat branch baru yang tidak berisi dua perubahan tsb
