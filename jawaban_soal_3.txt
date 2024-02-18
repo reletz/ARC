@@ -1,0 +1,3 @@
+Apa itu Fork dan Pull Request pada GitHub?
+-> Fork merupakan kegiatan "clone"/menduplikasi repository user lain, sehingga repo tersebut bisa dimodifikasi oleh kita.
+-> PR merupakan kegiatan "meminta"/"request" untuk menggabungkan hasil modifikasi repository modifikasi ke repository asli milik user tsb.
